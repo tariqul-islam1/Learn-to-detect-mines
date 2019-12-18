@@ -1,6 +1,7 @@
 # Mine detector using sonar data
 Want a submarine ride? Use my code to save your ass from mines. You need a working sonar though.</br>
-(A school project)
+
+> Because it's a school project, I can't post the data here. Need to ask my professor first.
 
 ## Uses libraries:
  * Scikit Learn
